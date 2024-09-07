@@ -1,0 +1,7 @@
+package com.learning05.linkedlist;
+
+public class Node
+{
+	int data;
+	Node nextNode;
+}
